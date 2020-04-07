@@ -6,7 +6,7 @@ public class Practice1 {
 		for(int i=0;i<=5;i++)
 		{
 			System.out.println("Jenkins practice "+i);
-			System.out.println("Done");
+			System.out.println("Done...");
 		}
 
 	}
